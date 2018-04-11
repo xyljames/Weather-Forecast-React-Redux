@@ -9,7 +9,7 @@ return _.round(_.sum(data)/data.length)
 export default (props)=>{
     return(
         <div>
-        <Sparklines height={120} width={180} data={props.data}>
+        <Sparklines height={300} width={300} data={props.data}>
         <SparklinesReferenceLine type="avg" />
         <SparklinesLine color={props.color}/>
         </Sparklines>
