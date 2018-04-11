@@ -1,7 +1,9 @@
 module.exports = {
   entry: [
     './src/index.js'
-  ],
+  ],dsadsaddada
+  dasdadasd
+  
   output: {
     path: __dirname,
     publicPath: '/',
