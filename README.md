@@ -1,4 +1,5 @@
 # React&Redux weather project
+Search zip or city name to show weather conditions
 
 ### Getting Started
 
